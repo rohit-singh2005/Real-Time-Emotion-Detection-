@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-#Real-Time Emotion Detection 
-Built a real-time emotion detection system using OpenCV and DeepFace.
-The project identifies emotions like happiness, anger, and sadness from video streams.
-Worked on facial detection, preprocessing, and emotion classification, enhancing
-skills in Python and machine learning.
-=======
 # Real-Time Emotion Detection System
 
 A Python-based real-time emotion detection system that uses computer vision and deep learning to detect and analyze facial emotions through a webcam feed.
@@ -68,4 +61,3 @@ The system uses OpenCV for face detection and DeepFace for emotion analysis. It 
 ## Contributing
 
 Feel free to submit issues and enhancement requests! 
->>>>>>> 5bec628 (Local changes before rebase)
