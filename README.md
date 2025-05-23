@@ -54,10 +54,6 @@ python prj2/emotion1.py
 
 The system uses OpenCV for face detection and DeepFace for emotion analysis. It processes the webcam feed in real-time, detecting faces and analyzing their emotional expressions. When specific emotions are detected, the system can automatically capture snapshots or allow manual captures.
 
-## License
-
-[Your chosen license]
-
 ## Contributing
 
 Feel free to submit issues and enhancement requests! 
