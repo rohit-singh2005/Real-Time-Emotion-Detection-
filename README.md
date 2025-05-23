@@ -22,7 +22,7 @@ A Python-based real-time emotion detection system that uses computer vision and 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/emotion_detection.git
+git clone https://github.com/rohit-singh2005/Real-Time-Emotion-Detection-.git
 cd emotion_detection
 ```
 
